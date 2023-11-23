@@ -1,22 +1,13 @@
-<!DOUTYPE html>
-<html lang="pt-br"
+<!DOUTYPE  html>
+<html lang=¨pt-br¨
    <head>
-        <meta charset="UTF-8">
-        <title>doce & coffe</title
-
-        <style
-            p {
-                text-align: center
-            }
-        </style>
+        <meta charset=¨UTF-8¨>
+        <title>doce & coffe</title>
    </head>
 
-   <body>
-       <h1 style="text-align: center">
+   <boby>
+       <h1 style=¨text-align: center¨> doce & coffe</h1>
 
-
-
-nossa cafeteria se encontra 
-na rua campo largo nº 485 bairro centro
-nossa cafeteria serve todos os tipos de café e chás ; temos bolos de morango, laranja , chocolate , pão de ló, baunilhas e muito mais , temos sanduíches naturais, saladas de frutas e suco naturais
-
+<p>nossa cafeteria se encontra 
+<p><em>na rua campo largo nº 485 bairro centro</strong></em></p>
+</boby>nossa cafeteria serve todos os tipos de café e chás ; temos bolos de morango, laranja , chocolate , pão de ló, baunilhas e muito mais , temos sanduíches naturais, saladas de frutas e suco naturais</p>
